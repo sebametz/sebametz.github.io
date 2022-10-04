@@ -1,5 +1,5 @@
 ---
-title: Comming soon!
+title: Coming soon!
 subtitle: Working on material
 author: Metz Sebastian
 date: 10-04-2022
