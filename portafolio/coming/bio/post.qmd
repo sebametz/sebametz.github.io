@@ -13,7 +13,7 @@ Hi, I just launched the webpage, and I am working on the material, but here is t
 
 * Projects that I am working on related to Bioinformatics and Data analysis.
 * R and Python code that I think can be useful.
-* Remainders of how to use command lines that I always forgot.
+* Remainders of how to use commands that I always forgot.
 * and more!
 
 ![](working.png)
