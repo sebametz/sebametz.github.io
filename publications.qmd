@@ -1,0 +1,63 @@
+---
+title: "Publications"
+bibliography: citations.bib
+biblio-style: style.csl
+---
+
+:::{section-2022}
+__2022 (2)__
+-------------
+* @metz2022georeferenced
+* @metz2022freshwater
+:::
+
+:::{section-2021}
+__2021 (1)__
+-------------
+* @itoiz2021emerging
+:::
+
+:::{section-2020}
+__2020 (3)__
+-------------
+* @huber2020environmental
+* @accattatis2020identifying
+* @berman2020field
+:::
+
+
+:::{section-2019}
+__2019 (5)__
+-------------
+* @metz2019global
+* @metz2019diversity
+* @wanderley2019flowdiv
+* @huber2019primer
+* @singer2019contrasted
+:::
+
+:::{section-2018}
+__2018 (1)__
+-------------
+* @nievas2018protein
+:::
+
+
+:::{section-2017}
+__2017 (1)__
+-------------
+* @llames2017interplay
+:::
+
+
+:::{section-2016}
+__2016 (1)__
+-------------
+* @metz2016fullssr
+:::
+
+:::{section-2014}
+__2014 (1)__
+-------------
+* @moreyra2014obesidad
+:::

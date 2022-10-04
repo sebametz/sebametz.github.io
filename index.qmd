@@ -1,0 +1,49 @@
+---
+title: Sebastian Metz
+listing:
+  - id: list-post
+    contents: 
+      - posts/*/post.qmd
+      - portafolio/*/*/*.qmd
+    type: default
+    sort: "date desc"
+    categories: cloud
+    date-format: long
+    fields: [image, date, title, subtitle, categiries, author, reading-time]
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+  
+about:
+  id: about-section
+  template: jolla
+  image: images/photo_metz.jpeg
+  image-shape: round
+  image-width: 10em
+
+page-layout: full
+title-block-banner: false
+comments: false
+
+format:
+  html: 
+    toc: true
+---
+
+:::{#about-section}
+
+Wellcome to my homepage!
+
+:::
+
+## Recent posts
+
+:::{#list-post}
+:::
+
+ <a href="../posts/index.html"> <button type="button" class="btn btn-primary float-end btn-sm">See all</button></a>
+
+<br>
+
+
+<!-- <a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/seba_metz?ref_src=twsrc%5Etfw">Tweets by seba_metz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->

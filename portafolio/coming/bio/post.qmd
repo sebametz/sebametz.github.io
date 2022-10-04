@@ -1,0 +1,19 @@
+---
+title: Comming soon!
+subtitle: Working on material
+author: Metz Sebastian
+date: 10-04-2022
+image: working.png
+---
+
+---
+
+
+Hi, I just launched the webpage, and I am working on the material, but here is the list of the kind of information I will post on this blog:
+
+* Projects that I am working on related to Bioinformatics and Data analysis.
+* R and Python code that I think can be useful.
+* Remainders of how to use command lines that I always forgot.
+* and more!
+
+![](working.png)

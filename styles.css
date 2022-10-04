@@ -1,0 +1,13 @@
+/* css styles */
+#head-wellcome {
+    text-align: center;
+}
+
+#about-description{
+    text-align: justify;
+}
+
+.quarto-listing-category.category-cloud{
+    font-family: monospace;
+    font-size: xx-small;
+}

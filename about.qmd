@@ -1,0 +1,49 @@
+---
+title: "Sebastian Metz"
+about:
+  id: about-description
+  template: jolla
+  image: images/photo_metz.jpeg
+  image-shape: round
+  links: 
+      - icon: twitter
+        text: twitter
+        href: https://twitter.com/seba_metz
+      - icon: github
+        text: Github
+        href: https://github.com/sebametz
+      - icon: envelope
+        text: contact me!
+        href: ./contact.qmd
+format: 
+  html: 
+    toc: true
+---
+
+:::{.column-page}
+
+:::{#about-description}
+
+I am a Bioinformatician with a PhD in Molecular Biology and Biotechnology. Currently, I am working as a Postdoc at the [Station Biologique de Roscoff][roscoff], Roscoff, France. I am interested in microbial Ecology and Evolution (See my [Publications](publications.qmd) for more info). I love to code. Mostly I use R and Python to answer my research questions. I am also interested in web development and database management. Therefore, I like to spend some time learning about these. In my spare time, I like to bike, travel and **Run**. After having COVID-19 in September 2022, I started a journey to become a runner, training every week with the objective of participating in one marathon from [Abbot World Marathon Majors][abbot].
+
+## Education
+
+**National University of San Martín (UNSAM), San Martín** | Buenos Aires, Argentina
+PhD in *Molecular Biology and Biotechnology* | Apr 2015 - Oct 2020
+
+**National University of Entre Ríos (UNER), Oro Verde** | Paraná Argentina
+Licenciado (Similar to MSc) in *Bioinformatics* | Feb 2010 - Mar 2015
+
+## Experience
+
+**Postdoctoral researcher** | [Station Biologique de Roscoff][roscoff] | Jan 2022 - present
+
+**Postdoctoral researcher** | [Laboratoire des sciences de l'Environnement Marin][LEMAR] | Nov 2020 - Jan 2022
+
+:::
+
+:::
+
+[roscoff]:https://www.sb-roscoff.fr/en/metz-sebastian/4172?lab_id=117&group_id=3144
+[LEMAR]:https://www-iuem.univ-brest.fr/lemar/
+[abbot]:https://www.worldmarathonmajors.com/
