@@ -4,11 +4,7 @@
 
 layout: home
 title: Home
-permalink: /Home/
 ---
+## __Hi there!__
 
-### Welcome to my webpage!
-
-__Hi there!__
-
-I'm Sebastian, a Bioinformatician (Biological data analyst) and an enthusiastic runner and asado (BBQ) maker. I'm also an amateur web developer. If you are interested in something you see in this webpage and want to chat, please don't hesitate to contact me.
+_I'm Sebastian, a Bioinformatician (Biological data analyst) and an enthusiastic runner. I'm also an amateur web developer. If you are interested in something you see in this webpage and want to chat, please don't hesitate to contact me._
